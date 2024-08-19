@@ -1,0 +1,11 @@
+# Binaries
+st
+*.o
+# Config copy
+config.h
+# Patches
+*.diff
+*.patch
+*.rej
+# Copies
+*.orig
