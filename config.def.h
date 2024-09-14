@@ -8,6 +8,7 @@
 static char *font = "monospace:pixelsize=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+	"Noto Sans Mono CJK JP:pixelsize=12",
 	"Terminus:pixelsize=12",
 	"Symbols Nerd Font:pixelsize=11:antialias=true:autohint=true",
 };
